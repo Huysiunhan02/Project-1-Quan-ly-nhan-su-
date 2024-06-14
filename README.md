@@ -1,6 +1,6 @@
 # Project-1-Quan-ly-nhan-su
 
-Chương trình quản lý nhân sự (chi nhánh ngân hàng) được viết bằng ngôn ngữ C
+Chương trình quản lý danh sách nhân sự được viết bằng ngôn ngữ C
 
 Bao gồm các chức năng : 
 - Quản lý thông tin nhân viên,chức vụ
