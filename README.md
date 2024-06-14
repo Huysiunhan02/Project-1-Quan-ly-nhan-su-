@@ -1,4 +1,4 @@
-# Project-1-Quan-ly-nhan-su-
+# Project-1-Quan-ly-nhan-su
 
 Chương trình quản lý nhân sự (chi nhánh ngân hàng) được viết bằng ngôn ngữ C
 
@@ -11,3 +11,5 @@ Bao gồm các chức năng :
 Password mặc định : quanghuy
 
 Cơ sở dữ liệu lưu vào file txt
+
+Note: Đây là code mình viết từ năm nhất, mọi thứ khá là cồng kềnh 🥹
